@@ -1,4 +1,6 @@
 # Sandpiles-Cpp
+WARNING: The source is not finalized. I need to change somethings and think more about optimizing the code.
+
 Sandpiles animation Cpp
  ![alt text](https://github.com/Ahmed-alkharusi/Sandpiles-Cpp/blob/master/Capture1.PNG)
  
