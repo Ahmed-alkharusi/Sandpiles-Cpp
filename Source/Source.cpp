@@ -1,11 +1,10 @@
 #define OLC_PGE_APPLICATION
 #include "olcPixelGameEngine.h"
 #include <iostream>
-#include <string>
+//#include <string>
 #include <vector>
-#include <array>
-#include <fstream>
-#include <chrono>
+
+
 /*
 ====================
  === Snadpiles ===
@@ -76,7 +75,7 @@ public:
 
 			bool done = false;
 			do {
-			std::cout << " \n Please select a clour from the list:\n 1. WHITE \n 2. RED \n 3. BLACK \n 4. BLUE \n";
+			std::cout << " \n Please select a colour from the list:\n 1. WHITE \n 2. RED \n 3. BLACK \n 4. BLUE \n";
 			std::cin >> temp;
 			if (temp == 1 || temp == 2 || temp == 3 || temp == 4) {
 				done = true;
